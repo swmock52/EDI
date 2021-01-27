@@ -1,2 +1,2 @@
 # EDI
-(https://swmock52.github.io/EDI/tree/master/SterlingMockWebsiteSterlingMockWebsite/index.html)
+(https://swmock52.github.io/EDI/tree/master/SterlingMockWebsite/index.html)
