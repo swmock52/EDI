@@ -1,2 +1,2 @@
 # EDI
-(https://swmock52.github.io/EDI/Website)
+(https://swmock52.github.io/EDI/Webpage)
